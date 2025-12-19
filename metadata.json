@@ -1,0 +1,9 @@
+
+{
+  "name": "Peugeot Expert Precision Assistant",
+  "description": "A luxury diagnostic assistant for the Peugeot Expert Panel Van (BER088). Features deep dark aesthetic, session management, and specialized car knowledge.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
